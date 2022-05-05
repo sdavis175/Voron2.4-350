@@ -15,9 +15,9 @@ Based on [AndrewEllis93](https://github.com/AndrewEllis93/v2.247_backup_klipper_
 - [Umbilical](https://github.com/hartk1213/MISC/tree/8c26e7367d668e27a3202b225d07ca076e6ae7b6/Voron%20Mods/Voron%202/2.4/Voron2.4_umbilical_strain_relief) (going to replace)
 - [ERCF Toolhead PCB](https://github.com/VoronDesign/Voron-Hardware/tree/5797914de019a71173cbe37800f70a8e735ccc02/Afterburner_Toolhead_PCB)
 - [MGN12 X Axis](https://github.com/VoronDesign/VoronUsers/tree/9a087e3575e5272fe95d5402d5434ff6fa261645/printer_mods/arkeet/mgn12)
-- [Front Door M3 180° 3mm Hinges](https://github.com/VoronDesign/VoronUsers/tree/16fa31a72b1a26c77cfd0ff14722c861857738ec/printer_mods/quattroerik/front_door_m3_180_deg_3mm) (going to replace)
-- [RocknRoll](https://github.com/RockNLol/VoronUsers/tree/eff1700ed60e3479673e59527f5bba1126dbc4df/printer_mods/RockNLol/RockNRoll)
+- [ChrisGonzales 270° Hinge Parametric](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
 - [Ti Extrusion Backers](https://github.com/tanaes/whopping_Voron_mods/tree/82915fb4564a4f73cb0421a34d64296406205d0d/extrusion_backers)
+- [Sturdy Handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles)
 
 # TODO
 - Install Skirts/Fans & Seal Exhaust Fan
@@ -30,7 +30,6 @@ Based on [AndrewEllis93](https://github.com/AndrewEllis93/v2.247_backup_klipper_
 - [Stealthburner + CW2](https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta)
 - [VEFACH](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KevinAkaSam/VEFACH) or [HEPA Filter Exhaust for Voron 2.x](https://github.com/marcdebruijn/VoronUsers/tree/Voron-1.x/2.x-HEPA-Filter-Exhaust/printer_mods/dePrintinator/HEPA_Filter_Exhaust) (Maybe)
 - [KoiosLabs LED Mounts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Koios/LED_Mounts) or [DerekBackus LED Holder](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/LED_Holder) or [EddieTheEngineer LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip)
-- [Sturdy Handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles)
 - A Filament Runout Sensor (TBD)
 - Install XY chains and remove Umbilical
-- [Randell Hinge Mod for 3mm Doors w/ 3mm Foam](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges) or [ChrisGonzales 270° Hinge Parametric](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
+- [RocknRoll](https://github.com/RockNLol/VoronUsers/tree/eff1700ed60e3479673e59527f5bba1126dbc4df/printer_mods/RockNLol/RockNRoll)
