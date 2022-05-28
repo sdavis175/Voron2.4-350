@@ -18,9 +18,10 @@ Based on [AndrewEllis93](https://github.com/AndrewEllis93/v2.247_backup_klipper_
 - [ChrisGonzales 270° Hinge Parametric](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
 - [Ti Extrusion Backers](https://github.com/tanaes/whopping_Voron_mods/tree/82915fb4564a4f73cb0421a34d64296406205d0d/extrusion_backers)
 - [Sturdy Handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles)
+- [RocknRoll](https://github.com/RockNLol/VoronUsers/tree/eff1700ed60e3479673e59527f5bba1126dbc4df/printer_mods/RockNLol/RockNRoll)
 
 # TODO
-- Install Skirts/Fans & Seal Exhaust Fan
+- Install Skirts/Fans & [Seal Printer](https://www.amazon.com/Sugru-I000945-Moldable-Multi-Purpose-Creative/dp/B089WHGQDP?pldnSite=1&th=1)
 - [PCB Cover](https://github.com/craxoor/VoronMods/tree/master/PCB%20Cover)
 - [Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
 - 🥣
@@ -32,4 +33,3 @@ Based on [AndrewEllis93](https://github.com/AndrewEllis93/v2.247_backup_klipper_
 - [KoiosLabs LED Mounts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Koios/LED_Mounts) or [DerekBackus LED Holder](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/LED_Holder) or [EddieTheEngineer LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip)
 - A Filament Runout Sensor (TBD)
 - Install XY chains and remove Umbilical
-- [RocknRoll](https://github.com/RockNLol/VoronUsers/tree/eff1700ed60e3479673e59527f5bba1126dbc4df/printer_mods/RockNLol/RockNRoll)
