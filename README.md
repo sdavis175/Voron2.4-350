@@ -35,4 +35,5 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - A Filament Runout Sensor (TBD)
 - Install XY chains and remove Umbilical
 - [Camera](https://github.com/hartk1213/MISC/tree/5650766e14287cca00da93d6bd71434dc1a4bc63/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera)
+- [RGB Barf Logo](https://github.com/tanaes/whopping_Voron_mods/tree/4f535ba66af22de7b4df813c88ab4aef766eeb97/LEDs/Rainbow_Barf_Logo_LED)
 
