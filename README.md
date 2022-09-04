@@ -34,3 +34,7 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - [KoiosLabs LED Mounts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Koios/LED_Mounts) or [DerekBackus LED Holder](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/LED_Holder) or [EddieTheEngineer LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip)
 - A Filament Runout Sensor (TBD)
 - Install XY chains and remove Umbilical
+- [Camera](https://github.com/hartk1213/MISC/tree/5650766e14287cca00da93d6bd71434dc1a4bc63/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera)
+- [RGB Barf Logo](https://github.com/tanaes/whopping_Voron_mods/tree/4f535ba66af22de7b4df813c88ab4aef766eeb97/LEDs/Rainbow_Barf_Logo_LED)
+- [Stealthburner LED PCB Drilling Template](https://github.com/ben5459/HybridManufacturingPlatform/blob/b04cae1fad00fc8fb136e7d21a47e584ef5af276/Stealthburner%20LED%20PCB%20Drill%20Template/SB-LED-PCB_Drill_Template_v0.02.stl)
+- [Stealthburner 2-Part PCB w/ LED Fan Board](https://github.com/hartk1213/MISC/tree/main/PCBs/Stealthburner_Toolhead_PCB/Production%20Files/StealthburnerPCB/2%20Piece)
