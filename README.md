@@ -24,6 +24,7 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 # Tools
 - [Stealthburner LED PCB Drilling Template](https://github.com/ben5459/HybridManufacturingPlatform/blob/b04cae1fad00fc8fb136e7d21a47e584ef5af276/Stealthburner%20LED%20PCB%20Drill%20Template/SB-LED-PCB_Drill_Template_v0.02.stl)
 - [Neopixel Soldering Tool](https://github.com/camerony/VoronCustom/blob/7ba14a92e66e673d255a31687d8f54f7872ea161/NeoPixelSolderingTool/NeoPixelSolderingTool.stl)
+- [Stealthruler](https://www.printables.com/en/model/272986-the-mighty-stealthruler)
 
 # TODO
 - Install Skirts/Fans & [Seal Printer](https://www.amazon.com/Sugru-I000945-Moldable-Multi-Purpose-Creative/dp/B089WHGQDP?pldnSite=1&th=1)
@@ -37,3 +38,4 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - [Runout Unklicky](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chirpy/RunoutUnklicky)
 - [Camera](https://github.com/hartk1213/MISC/tree/5650766e14287cca00da93d6bd71434dc1a4bc63/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera)
 - [RGB Barf Logo](https://github.com/tanaes/whopping_Voron_mods/tree/4f535ba66af22de7b4df813c88ab4aef766eeb97/LEDs/Rainbow_Barf_Logo_LED)
+- [5015 Clear Fan](https://www.printables.com/model/273994-5015-clear-fan-rear-housing)
