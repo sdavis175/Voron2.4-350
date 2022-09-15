@@ -6,6 +6,7 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 # Installed Mods
 - [Stealthburner + CW2](https://github.com/VoronDesign/Voron-Stealthburner/tree/b2cf2c2c0436d734181688ae3019b9dffb835b8b)
 - [Stealthburner 2-Part PCB w/ LED Fan Board](https://github.com/hartk1213/MISC/tree/main/PCBs/Stealthburner_Toolhead_PCB/Production%20Files/StealthburnerPCB/2%20Piece)
+- [Klipper LED Effects](https://github.com/julianschill/klipper-led_effect)
 - [Klicky Probe](https://github.com/jlas1/Klicky-Probe/tree/02c5707639638204c76da4f65cb996f872110407)
 - [Auto Z Calibration](https://github.com/protoloft/klipper_z_calibration/tree/98ab818538b54665be48228ad91bf84cadaf4f44)
 - [Nevermore Micro](https://github.com/nevermore3d/Nevermore_Micro/tree/d64850924dc42f219d68e1024835177646d3b2a6)
