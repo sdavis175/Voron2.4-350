@@ -25,6 +25,7 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - [Stealthburner LED PCB Drilling Template](https://github.com/ben5459/HybridManufacturingPlatform/blob/b04cae1fad00fc8fb136e7d21a47e584ef5af276/Stealthburner%20LED%20PCB%20Drill%20Template/SB-LED-PCB_Drill_Template_v0.02.stl)
 - [Neopixel Soldering Tool](https://github.com/camerony/VoronCustom/blob/7ba14a92e66e673d255a31687d8f54f7872ea161/NeoPixelSolderingTool/NeoPixelSolderingTool.stl)
 - [Stealthruler](https://www.printables.com/en/model/272986-the-mighty-stealthruler)
+- [Tension Meter](https://github.com/VoronDesign/VoronUsers/blob/086c63d475ff180e1d2832667a67b2a330ec0168/printer_mods/Kruppes/Tension_Meter/TensionMeter.stl)
 
 # TODO
 - Install Skirts/Fans & [Seal Printer](https://www.amazon.com/Sugru-I000945-Moldable-Multi-Purpose-Creative/dp/B089WHGQDP?pldnSite=1&th=1)
