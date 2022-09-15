@@ -50,3 +50,9 @@ install_script = install.sh
 managed_services = 
 	moonraker-obico
 
+[update_manager fluidd]
+type = web
+channel = stable
+repo = fluidd-core/fluidd
+path = ~/fluidd
+
