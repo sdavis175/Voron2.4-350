@@ -40,3 +40,13 @@ path = /home/pi/klipper_z_calibration
 origin = https://github.com/protoloft/klipper_z_calibration.git
 install_script = install.sh
 
+[update_manager moonraker-obico]
+type = git_repo
+path = ~/moonraker-obico
+origin = https://github.com/TheSpaghettiDetective/moonraker-obico.git
+env = /home/pi/moonraker-env/bin/python
+requirements = requirements.txt
+install_script = install.sh
+managed_services = 
+	moonraker-obico
+
