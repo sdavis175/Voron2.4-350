@@ -6,6 +6,7 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 # Installed Mods
 - [Stealthburner + CW2](https://github.com/VoronDesign/Voron-Stealthburner/tree/b2cf2c2c0436d734181688ae3019b9dffb835b8b)
 - [Stealthburner 2-Part PCB w/ LED Fan Board](https://github.com/hartk1213/MISC/tree/main/PCBs/Stealthburner_Toolhead_PCB/Production%20Files/StealthburnerPCB/2%20Piece)
+- [RGB Barf Logo](https://github.com/tanaes/whopping_Voron_mods/tree/4f535ba66af22de7b4df813c88ab4aef766eeb97/LEDs/Rainbow_Barf_Logo_LED)
 - [Klipper LED Effects](https://github.com/julianschill/klipper-led_effect)
 - [Klicky Probe](https://github.com/jlas1/Klicky-Probe/tree/02c5707639638204c76da4f65cb996f872110407)
 - [Auto Z Calibration](https://github.com/protoloft/klipper_z_calibration/tree/98ab818538b54665be48228ad91bf84cadaf4f44)
@@ -34,10 +35,9 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - 🥣
 - [Frame Expansion Compensation](https://github.com/tanaes/whopping_Voron_mods/tree/main/docs/frame_expansion)
 - [GE5C Z Joints](https://github.com/tanaes/whopping_Voron_mods/tree/main/GE5C/mods/garyd9)
-- ["Other" V2 Idlers](https://github.com/selliott79/Other-V2-Idlers) or [Rama's Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
-- [VEFACH](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KevinAkaSam/VEFACH) or [HEPA Filter Exhaust for Voron 2.x](https://github.com/marcdebruijn/VoronUsers/tree/Voron-1.x/2.x-HEPA-Filter-Exhaust/printer_mods/dePrintinator/HEPA_Filter_Exhaust) (Maybe)
+- [Rama's Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
+- [HEPA Filter Exhaust for Voron 2.x](https://github.com/marcdebruijn/VoronUsers/tree/Voron-1.x/2.x-HEPA-Filter-Exhaust/printer_mods/dePrintinator/HEPA_Filter_Exhaust)
 - [KoiosLabs LED Mounts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Koios/LED_Mounts) or [DerekBackus LED Holder](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/LED_Holder) or [EddieTheEngineer LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip)
 - [Runout Unklicky](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chirpy/RunoutUnklicky)
 - [Camera](https://github.com/hartk1213/MISC/tree/5650766e14287cca00da93d6bd71434dc1a4bc63/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera)
-- [RGB Barf Logo](https://github.com/tanaes/whopping_Voron_mods/tree/4f535ba66af22de7b4df813c88ab4aef766eeb97/LEDs/Rainbow_Barf_Logo_LED)
 - [5015 Clear Fan](https://www.printables.com/model/273994-5015-clear-fan-rear-housing)
