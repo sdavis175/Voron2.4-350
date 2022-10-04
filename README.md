@@ -23,6 +23,9 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - [RocknRoll](https://github.com/RockNLol/VoronUsers/tree/eff1700ed60e3479673e59527f5bba1126dbc4df/printer_mods/RockNLol/RockNRoll)
 - [Z Chain Guide Thermistor](https://github.com/VoronDesign/VoronUsers/blob/968ccc0cec44b33bfe444f866565417ff32d19bf/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount/STL/Z_Chain_Guide_Thermistor_Mount.stl)
 - [HEPA Filter Exhaust for Voron 2.x](https://github.com/VoronDesign/VoronUsers/tree/f7ac2039c7cc6ce763de2e9127c25b2fe16a7a0c/printer_mods/dePrintinator/HEPA_Filter_Exhaust)
+- [GE5C Z Joints](https://github.com/tanaes/whopping_Voron_mods/tree/b6cd4770499385a0c19fde76348c9a10dbddb8e8/GE5C/mods/garyd9)
+- [Rama's Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/4bc404ae472c11c9d32b13d608f758cca0f954ba/Front_Idlers)
+- [Z Belt Clips](https://github.com/VoronDesign/VoronUsers/tree/a21bc5fbf8e9951fc6877166fa64321f41821fab/printer_mods/ChenTheDesignMaker/Z_Belt_Clip)
 
 # Tools
 - [Stealthburner LED PCB Drilling Template](https://github.com/ben5459/HybridManufacturingPlatform/blob/b04cae1fad00fc8fb136e7d21a47e584ef5af276/Stealthburner%20LED%20PCB%20Drill%20Template/SB-LED-PCB_Drill_Template_v0.02.stl)
@@ -31,12 +34,10 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - [Tension Meter](https://github.com/VoronDesign/VoronUsers/blob/086c63d475ff180e1d2832667a67b2a330ec0168/printer_mods/Kruppes/Tension_Meter/TensionMeter.stl)
 
 # TODO
-- Install Skirts/Fans & [Seal Printer](https://www.amazon.com/Sugru-I000945-Moldable-Multi-Purpose-Creative/dp/B089WHGQDP?pldnSite=1&th=1)
+- [Seal Printer](https://www.amazon.com/Sugru-I000945-Moldable-Multi-Purpose-Creative/dp/B089WHGQDP?pldnSite=1&th=1)
 - [Deck Panel Support Clips](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/wile-e1/Deck_Panel_Support_Clips)
 - 🥣
 - [Frame Expansion Compensation](https://github.com/tanaes/whopping_Voron_mods/tree/main/docs/frame_expansion)
-- [GE5C Z Joints](https://github.com/tanaes/whopping_Voron_mods/tree/main/GE5C/mods/garyd9)
-- [Rama's Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
 - [KoiosLabs LED Mounts](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Koios/LED_Mounts) or [DerekBackus LED Holder](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/DerekBackus/LED_Holder) or [EddieTheEngineer LED Bar Clip](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip)
 - [Runout Unklicky](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chirpy/RunoutUnklicky)
 - [Camera](https://github.com/hartk1213/MISC/tree/5650766e14287cca00da93d6bd71434dc1a4bc63/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera)
