@@ -7,6 +7,7 @@ klippy_uds_address = /tmp/klippy_uds
 [file_manager]
 config_path = ~/klipper_config
 log_path = ~/klipper_logs
+enable_object_processing = True
 
 [database]
 database_path = ~/.moonraker_database
@@ -39,4 +40,33 @@ type = git_repo
 path = /home/pi/klipper_z_calibration
 origin = https://github.com/protoloft/klipper_z_calibration.git
 install_script = install.sh
+
+[update_manager moonraker-obico]
+type = git_repo
+path = ~/moonraker-obico
+origin = https://github.com/TheSpaghettiDetective/moonraker-obico.git
+env = /home/pi/moonraker-env/bin/python
+requirements = requirements.txt
+install_script = install.sh
+managed_services = 
+	moonraker-obico
+
+[update_manager fluidd]
+type = web
+channel = stable
+repo = fluidd-core/fluidd
+path = ~/fluidd
+
+[update_manager led_effect]
+type = git_repo
+path = ~/klipper-led_effect
+origin = https://github.com/julianschill/klipper-led_effect.git
+is_system_service = False
+
+[update_manager sonar]
+type = git_repo
+path = ~/sonar
+origin = https://github.com/mainsail-crew/sonar.git
+primary_branch = main
+managed_services = sonar
 
