@@ -15,7 +15,7 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - [Decontaminator](https://github.com/VoronDesign/VoronUsers/tree/339227ec8bd193d72639cbd728d2432502244695/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) (Custom Purge Bucket for smaller center bucket to make room for Bed Wagos mount)
 - Bed Wagos w/ Decontaminator Compatability (Source: Eekoo#8641 from Voron Discord)
 - [Snap Latches for Panels](https://github.com/VoronDesign/VoronUsers/tree/194bd78df4ac53400f04a19356b0a9a3b5c7b4b5/printer_mods/richardjm/snap-latch-2020)
-- [SexBolt Z Endstop](https://github.com/VoronDesign/VoronUsers/tree/3ebaabb9e87885f1a3e5f17747c3ae069e9403b2/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop)
+- [SexBolt Z Endstop](https://github.com/VoronDesign/VoronUsers/tree/3ebaabb9e87885f1a3e5f17747c3ae069e9403b2/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) with a [Spring](https://a.co/d/ilzKWG1) (was cut in half, used a 3mm custom spacer, and a M4x12 BHCS)
 - [Z Belts w/ Cable Routing](https://github.com/VoronDesign/VoronUsers/tree/5c7d412297808190565d34b0373c5fd24f3db1a0/printer_mods/Akio/cable_routing_z_belt_cover)
 - [Pins Mod](https://github.com/VoronDesign/VoronUsers/tree/ae7937dc0e5496f44d9f97e47b048d71f3db2af6/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod)
 - [ChrisGonzales 270° Hinge Parametric](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge)
