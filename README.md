@@ -44,3 +44,4 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - [Runout Unklicky](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chirpy/RunoutUnklicky)
 - [Camera](https://github.com/hartk1213/MISC/tree/5650766e14287cca00da93d6bd71434dc1a4bc63/Voron%20Mods/Non%20Printer%20Voron%20Stuff/Voron_Camera)
 - [5015 Clear Fan](https://www.printables.com/model/273994-5015-clear-fan-rear-housing)
+- [Duck](https://discord.com/channels/460117602945990666/828406858271162378/875463215721644032) [Spinner](https://github.com/hartk1213/MISC/tree/119c4cacfb12eabde74daec94286c1c7362772d0/Voron%20Mods/Voron%202/2.4/Voron2.4_Spinner)
