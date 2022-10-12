@@ -7,10 +7,8 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - [Stealthburner + CW2](https://github.com/VoronDesign/Voron-Stealthburner/tree/b2cf2c2c0436d734181688ae3019b9dffb835b8b)
 - [Stealthburner 2-Part PCB w/ LED Fan Board](https://github.com/hartk1213/MISC/tree/main/PCBs/Stealthburner_Toolhead_PCB/Production%20Files/StealthburnerPCB/2%20Piece)
 - [RGB Barf Logo](https://github.com/tanaes/whopping_Voron_mods/tree/4f535ba66af22de7b4df813c88ab4aef766eeb97/LEDs/Rainbow_Barf_Logo_LED)
-- [Klipper LED Effects](https://github.com/julianschill/klipper-led_effect)
 - [KlickyNG Probe](https://github.com/jlas1/Klicky-Probe/tree/ee8b830bec1d9d0931a00892979b45387bae5e54)
 - [Klicky Probe Bracket for MGN12 X Carriage](https://github.com/jlas1/Klicky-Probe/tree/43b25796fd219f277ce88231d9602c269213878a/Printers/Voron/v1.8_v2.4_Legacy_Trident/Usermods/eamars)
-- [Auto Z Calibration](https://github.com/protoloft/klipper_z_calibration/tree/98ab818538b54665be48228ad91bf84cadaf4f44)
 - [Nevermore Micro](https://github.com/nevermore3d/Nevermore_Micro/tree/d64850924dc42f219d68e1024835177646d3b2a6)
 - [Decontaminator](https://github.com/VoronDesign/VoronUsers/tree/339227ec8bd193d72639cbd728d2432502244695/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) (Custom Purge Bucket for smaller center bucket to make room for Bed Wagos mount)
 - Bed Wagos w/ Decontaminator Compatability (Source: Eekoo#8641 from Voron Discord)
@@ -27,6 +25,15 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - [GE5C Z Joints](https://github.com/tanaes/whopping_Voron_mods/tree/b6cd4770499385a0c19fde76348c9a10dbddb8e8/GE5C/mods/garyd9)
 - [Rama's Front Idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/4bc404ae472c11c9d32b13d608f758cca0f954ba/Front_Idlers)
 - [Z Belt Clips](https://github.com/VoronDesign/VoronUsers/tree/a21bc5fbf8e9951fc6877166fa64321f41821fab/printer_mods/ChenTheDesignMaker/Z_Belt_Clip)
+
+# Plugins
+- [KIAUH](https://github.com/th33xitus/kiauh)
+- [G-Code Shell Command](https://github.com/th33xitus/kiauh/blob/master/docs/gcode_shell_command.md) (installed using KIAUH)
+- [Klipper LED Effects](https://github.com/julianschill/klipper-led_effect)
+- [Auto Z Calibration](https://github.com/protoloft/klipper_z_calibration/tree/98ab818538b54665be48228ad91bf84cadaf4f44)
+- [Obico for Klipper](https://github.com/TheSpaghettiDetective/moonraker-obico)
+- [Sonar](https://github.com/mainsail-crew/sonar)
+- [Crowsnest](https://github.com/mainsail-crew/crowsnest)
 
 # Tools
 - [Stealthburner LED PCB Drilling Template](https://github.com/ben5459/HybridManufacturingPlatform/blob/b04cae1fad00fc8fb136e7d21a47e584ef5af276/Stealthburner%20LED%20PCB%20Drill%20Template/SB-LED-PCB_Drill_Template_v0.02.stl)
