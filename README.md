@@ -33,6 +33,7 @@ Message me on [Discord](https://discordapp.com/users/109440012877070336) for any
 - [Neopixel Soldering Tool](https://github.com/camerony/VoronCustom/blob/7ba14a92e66e673d255a31687d8f54f7872ea161/NeoPixelSolderingTool/NeoPixelSolderingTool.stl)
 - [Stealthruler](https://www.printables.com/en/model/272986-the-mighty-stealthruler)
 - [Tension Meter](https://github.com/VoronDesign/VoronUsers/blob/086c63d475ff180e1d2832667a67b2a330ec0168/printer_mods/Kruppes/Tension_Meter/TensionMeter.stl)
+- [KUSBA](https://github.com/xbst/KUSBA/tree/b623737b331de9f4309e61082c78984a4021137c)
 
 # TODO
 - [Seal Printer](https://www.amazon.com/Sugru-I000945-Moldable-Multi-Purpose-Creative/dp/B089WHGQDP?pldnSite=1&th=1)
