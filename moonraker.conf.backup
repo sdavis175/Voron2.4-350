@@ -1,0 +1,68 @@
+[server]
+host: 0.0.0.0
+port: 7125
+enable_debug_logging: False
+klippy_uds_address: /tmp/klippy_uds
+
+[file_manager]
+config_path: ~/klipper_config
+log_path: ~/klipper_logs
+enable_object_processing: True
+
+[database]
+database_path: ~/.moonraker_database
+
+[authorization]
+trusted_clients:
+    127.0.0.1
+    192.168.0.0/16
+    ::1/128
+    FE80::/10
+cors_domains:
+    *.lan
+    *.local
+    *://my.mainsail.xyz
+    *://app.fluidd.xyz
+
+[octoprint_compat]
+
+[history]
+
+[update_manager]
+
+[update_manager client mainsail]
+type: web
+repo: meteyou/mainsail
+path: ~/mainsail
+
+# [update_manager client fluidd]
+# type: web
+# repo: cadriel/fluidd
+# path: ~/fluidd
+
+[update_manager client z_calibration]
+type: git_repo
+path: /home/pi/klipper_z_calibration
+origin: https://github.com/protoloft/klipper_z_calibration.git
+install_script: install.sh
+[include moonraker-obico-update.cfg]
+
+[update_manager fluidd]
+type: web
+channel: stable
+repo: fluidd-core/fluidd
+path: ~/fluidd
+
+
+[update_manager led_effect]
+type: git_repo
+path: ~/klipper-led_effect
+origin: https://github.com/julianschill/klipper-led_effect.git
+is_system_service: False
+
+[update_manager sonar]
+type: git_repo
+path: ~/sonar
+origin: https://github.com/mainsail-crew/sonar.git
+primary_branch: main
+managed_services: sonar
